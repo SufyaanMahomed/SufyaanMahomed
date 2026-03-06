@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sufyaan</h1>
 <h3 align="center">A passionate Full Stack developer from South Africa</h3>
 
-- 🔭 I’m currently working on [GlobeTalk](https://github.com/MuaazBayat/software-design-project)
-
 - 🌱 I’m currently learning **Next.js, AWS, Machine Learning**
 
 - 📫 How to reach me **sufyaan.mahomed77@gmail.com**
